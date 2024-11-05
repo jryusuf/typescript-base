@@ -29,8 +29,14 @@ const Header = React.forwardRef<HTMLElement, HeaderProps>(
                         <Link href="/pricing" className="text-sm hover:text-primary">
                             Pricing
                         </Link>
-                        <Link href="/solutions" className="text-sm hover:text-primary">
-                            Solutions
+                        <Link href="/blog" className="text-sm hover:text-primary">
+                            Blog
+                        </Link>
+                        <Link href="/about" className="text-sm hover:text-primary">
+                            About
+                        </Link>
+                        <Link href="/contact" className="text-sm hover:text-primary">
+                            Contact
                         </Link>
                     </nav>
                 </div>
