@@ -9,5 +9,5 @@ test("this my fail", () => {
 });
 
 test("this one also must failed", () => {
-    expect(add(1, 2)).toBe(5);
+    expect(add(1, 2)).toBe(5)
 });
