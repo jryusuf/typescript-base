@@ -8,7 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"Supermaven.supermaven",
-				"saoudrizwan.claude-dev"
+				"saoudrizwan.claude-dev",
+				"Orta.vscode-jest"
 			]
 		}
 	}
